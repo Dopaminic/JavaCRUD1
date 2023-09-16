@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8a9af77-6b8a-41b5-bc5d-79cb76204576" name="Changes" comment="zip test1">
+    <list default="true" id="b8a9af77-6b8a-41b5-bc5d-79cb76204576" name="Changes" comment="final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <workItem from="1694264511580" duration="6311000" />
       <workItem from="1694502861140" duration="2834000" />
       <workItem from="1694505982693" duration="4000" />
-      <workItem from="1694866982774" duration="4845000" />
+      <workItem from="1694866982774" duration="6344000" />
     </task>
     <task id="LOCAL-00001" summary="JavaCRUD project1">
       <option name="closed" value="true" />
@@ -139,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694869578073</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="final">
+      <option name="closed" value="true" />
+      <created>1694874960831</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694874960831</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +157,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="JavaCRUD project1" />
     <MESSAGE value="zip test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="zip test1" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
