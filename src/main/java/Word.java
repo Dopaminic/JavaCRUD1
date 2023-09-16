@@ -11,6 +11,7 @@ public class Word {
         this.word = word;
         this.meaning = meaning;
     }
+
     public int getId() {
         return id;
     }
@@ -42,13 +43,18 @@ public class Word {
     public void setMeaning(String meaning) {
         this.meaning = meaning;
     }
+
     @Override
     public String toString() {
-
         String slevel = "";
-        for(int i = 0; i < level ; i++) slevel += "*";
+        for(int i = 0; i<level; i++) slevel+="*";
         String str = String.format("%-3s", slevel)
-                + String.format("%15s", word) + " " + String.format("%15s", meaning);
+                + String.format("%15s", word) + " " + meaning;
+
         return str;
+    }
+
+    public String toFileString(){
+        return this.level + "|" + this.word + "|" + this.meaning;
     }
 }
