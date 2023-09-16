@@ -2999,3 +2999,4 @@
 1|zebra|얼룩말
 2|zone|대
 1|zoo|동물원
+3| acupuncture|한방침술
